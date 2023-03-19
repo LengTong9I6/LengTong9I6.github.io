@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>My awesome title</title>
+    <url>/blog/2016/10/12/My%20awesome%20title/</url>
+    <content><![CDATA[<p>My awesome contents</p>
+]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
-    <url>/index.html/2022/04/23/hello-world/</url>
+    <url>/blog/2022/04/23/hello-world/</url>
     <content><![CDATA[<blockquote>
 <p>以下内容来自 <code>hexo init [folder]</code> 命令生成</p>
 </blockquote>
@@ -20,19 +34,5 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>My awesome title</title>
-    <url>/index.html/2016/10/12/My%20awesome%20title/</url>
-    <content><![CDATA[<p>My awesome contents</p>
-]]></content>
-      <categories>
-        <category>分类1</category>
-        <category>分类2</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
   </entry>
 </search>
