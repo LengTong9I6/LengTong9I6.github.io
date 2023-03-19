@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>My awesome title</title>
-    <url>/blog/2016/10/12/My%20awesome%20title/</url>
+    <url>/2016/10/12/My%20awesome%20title/</url>
     <content><![CDATA[<p>My awesome contents</p>
 ]]></content>
       <categories>
@@ -16,7 +16,7 @@
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/blog/2022/04/23/hello-world/</url>
+    <url>/2022/04/23/hello-world/</url>
     <content><![CDATA[<blockquote>
 <p>以下内容来自 <code>hexo init [folder]</code> 命令生成</p>
 </blockquote>
