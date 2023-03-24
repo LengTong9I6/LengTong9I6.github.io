@@ -6,12 +6,12 @@
     <content><![CDATA[<p>My awesome contents</p>
 ]]></content>
       <categories>
-        <category>分类1</category>
-        <category>分类2</category>
+        <category>其他</category>
+        <category>杂项</category>
       </categories>
       <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
+        <tag>示例文章</tag>
+        <tag>Diaspora</tag>
       </tags>
   </entry>
   <entry>
@@ -34,5 +34,13 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+      <categories>
+        <category>其他</category>
+        <category>杂项</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>示例文章</tag>
+      </tags>
   </entry>
 </search>
