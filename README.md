@@ -1,4 +1,5 @@
 # LengTong9I6.github.io
 一个使用 GitHub Pages 的网站
 
-http://lt9i6.top
+主要页面
+https://LengTong9I6.github.io/blog/index.html
