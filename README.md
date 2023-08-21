@@ -2,4 +2,4 @@
 一个使用 GitHub Pages 的网站
 
 主要页面
-https://blog.lt9i6.top/blog/index.html
+https://blog.lt9i6.top
